@@ -4,6 +4,8 @@ RAGNova is a modular and adaptive Retrieval-Augmented Generation (RAG) system de
 
 ---
 
+
+
 ## 🚀 Features
 
 - 🧾 **Layout-Aware Document Parsing** using LayoutLM and TableLab

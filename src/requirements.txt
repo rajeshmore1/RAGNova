@@ -1,0 +1,9 @@
+transformers
+datasets
+torch
+faiss-cpu
+sentence-transformers
+streamlit
+opencv-python
+PyMuPDF
+Pillow
