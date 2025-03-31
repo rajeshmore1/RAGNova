@@ -3,7 +3,9 @@
 RAGNova is a modular and adaptive Retrieval-Augmented Generation (RAG) system designed for reasoning over **layout-rich, multimodal, and noisy documents**. This project is part of an M.Tech thesis in Artificial Intelligence and leverages **deep document understanding**, **hybrid semantic retrieval**, and **confidence-calibrated generation** to build a smarter, explainable, and trustworthy QA system.
 
 ---
+## System Architecture
 
+![image](https://github.com/user-attachments/assets/d80950c7-3742-4eea-9e91-41e53853774a)
 
 
 ## 🚀 Features
